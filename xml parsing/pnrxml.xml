@@ -1,0 +1,40 @@
+<xml>
+	<response_code>200</response_code>
+	<pnr>6620398229</pnr>
+	<train_num>12301</train_num>
+	<train_name>KOLKATA RAJDHNI</train_name>
+	<doj>18-12-2013</doj>
+	<from_station>
+		<code>HWH</code>
+	</from_station>
+	<to_station>
+	<code>NDLS</code>
+	</to_station>
+	<reservation_upto>
+	<code>NDLS</code>
+	</reservation_upto>
+	<boarding_point>
+	<code>HWH</code>
+	</boarding_point>
+	<class>3A</class>
+	<no_of_passengers>3</no_of_passengers>
+	<chart_prepared>N</chart_prepared>
+	<passengers>
+		<passenger>
+		<sr>1</sr>
+		<booking_status>B1 , 25,GN</booking_status>
+		<current_status>CNF</current_status>
+		</passenger>
+		<passenger>
+		<sr>2</sr>
+		<booking_status>B1 , 28,GN</booking_status>
+		<current_status>CNF</current_status>
+		</passenger>
+		<passenger>
+		<sr>3</sr>
+		<booking_status>B1 , 31,GN</booking_status>
+		<current_status>CNF</current_status>
+		</passenger>
+	</passengers>
+	<error/>
+</xml>

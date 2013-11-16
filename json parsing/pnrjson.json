@@ -1,0 +1,25 @@
+{ 
+	"ok": "1",
+	"tnum": "12805",
+	"tname": "JANMABHOOMI EXP",
+	"tdate": "25-2-2013",
+	"from": "GNT",
+	"to": "SC",
+	"class": "CC",
+	"charted": true,
+	"numofpax": 2,
+	"pax": [
+		{
+			"coach": "D2",
+			"berth": "23",
+			"quota": "GN",
+			"status": "CNF"
+		},
+		{
+			"coach": "S2",
+			"berth": "43",
+			"quota": "GN",
+			"status": "CNF"
+		}
+	]
+}
